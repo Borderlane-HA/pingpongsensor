@@ -1,0 +1,6 @@
+{
+  "name": "PingPongSensor",
+  "render_readme": true,
+  "domains": ["pingpongsensor"],
+  "country": "DE"
+}
