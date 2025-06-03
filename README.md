@@ -1,10 +1,35 @@
-# PingPongSensor
+# 🏓 PingPongSensor
 
-Ein Home Assistant-Sensor zur Überwachung von IPs oder DNS-Adressen über Ping.  
-Installierbar über HACS. GUI-basiertes Setup.
+Ein **Home Assistant Sensor**, mit dem du einfach per GUI Pings zu Geräten im Netzwerk durchführen kannst – **kein YAML nötig!**
 
-## Features
-- GUI-Setup über Integrationen
-- Ping-Sensor mit Latenz & Erreichbarkeit
-- Updateintervall konfigurierbar
-- Unterstützt IP-Adressen oder DNS-Namen
+> ✔️ Unterstützt IP-Adressen und DNS-Namen  
+> 🔁 Konfigurierbares Intervall  
+> 🌐 GUI-Konfiguration über Home Assistant  
+> 💥 Unterstützt [HACS](https://hacs.xyz/) für einfache Installation
+
+---
+
+## 📸 Vorschau
+
+![integration-ui](https://yourdomain.tld/screenshots/pingpongsensor-ui.png)  
+*Sensor-Konfiguration über das Home Assistant Interface*
+
+---
+
+## ✨ Features
+
+- 🖥 **Mehrere Sensoren**: Jeder Sensor prüft einen Host (IP/DNS)
+- 🧠 **Ping-Funktion**: Misst Latenz & Erreichbarkeit
+- 🔧 **Intervalle frei wählbar** (in Sekunden)
+- 🌐 **DNS- und IP-Validierung**
+- 🧩 **HACS-kompatibel**: Einfaches Hinzufügen als benutzerdefinierte Integration
+- 📊 **Extra-Attribute**: Zeigt Latenz in ms, Hostname, Status usw.
+
+---
+
+## 📦 Installation via HACS
+
+1. Öffne Home Assistant
+2. Gehe zu **HACS → Integrationen → Benutzerdefiniertes Repository hinzufügen**
+3. Gib folgendes ein:
+
