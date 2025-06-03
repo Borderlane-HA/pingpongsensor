@@ -9,13 +9,6 @@ Ein **Home Assistant Sensor**, mit dem du einfach per GUI Pings zu Geräten im N
 
 ---
 
-## 📸 Vorschau
-
-![integration-ui](https://yourdomain.tld/screenshots/pingpongsensor-ui.png)  
-*Sensor-Konfiguration über das Home Assistant Interface*
-
----
-
 ## ✨ Features
 
 - 🖥 **Mehrere Sensoren**: Jeder Sensor prüft einen Host (IP/DNS)
@@ -31,5 +24,5 @@ Ein **Home Assistant Sensor**, mit dem du einfach per GUI Pings zu Geräten im N
 
 1. Öffne Home Assistant
 2. Gehe zu **HACS → Integrationen → Benutzerdefiniertes Repository hinzufügen**
-3. Gib folgendes ein:
+3. Gib folgendes ein: https://github.com/Borderlane-HA/pingpongsensor
 
