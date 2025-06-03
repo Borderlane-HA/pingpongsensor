@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "PingPongSensor Setup",
+        "description": "Hostkonfiguration",
+        "data": {
+          "name": "Sensor Name",
+          "ip_address": "IP oder Hostname",
+          "interval": "Ping Interval (Sekunden)"
+        }
+      }
+    },
+    "error": {
+      "invalid_host": "Ungültige IP oder Hostname"
+    }
+  }
+}
