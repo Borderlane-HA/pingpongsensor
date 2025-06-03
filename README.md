@@ -25,4 +25,5 @@ Ein **Home Assistant Sensor**, mit dem du einfach per GUI Pings zu Geräten im N
 1. Öffne Home Assistant
 2. Gehe zu **HACS → Integrationen → Benutzerdefiniertes Repository hinzufügen**
 3. Gib folgendes ein: https://github.com/Borderlane-HA/pingpongsensor
+4. Typ: Integration
 
