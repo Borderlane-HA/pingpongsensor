@@ -1,7 +1,7 @@
 {
   "domain": "pingpongsensor",
   "name": "PingPongSensor",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "documentation": "https://github.com/Borderlane-HA/pingpongsensor",
   "requirements": [],
   "codeowners": ["@Borderlane-HA"],
